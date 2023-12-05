@@ -34,7 +34,10 @@ Hola a todos, mi nombre es Franco! 👋
 </div>
 <div>
   <h2>Conctacto 🤝</h2>
-  <p>Correo:  <a href="franco2001garcia@gmail.com">franco2001garcia@gmail.com</a> </p>
+  <label>Correo: </label>
+ <a href="mailto:franco2001garcia@gmail.com">franco2001garcia@gmail.com</a><br/>
+  <label>Linkedin</label> 
+  <a href="https://www.linkedin.com/in/francogarcia2001/">https://www.linkedin.com/in/francogarcia2001/</a>
 </div>
 <!--
 **Fgarcia2001/Fgarcia2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
